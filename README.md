@@ -2,8 +2,6 @@
 
 This project is a browser extension for Microsoft Edge that performs searches based on a list of predefined keywords.
 
-![Extension Icon](icons/icon16.png)
-
 ## Overview
 
 The Automate_edge_search Extension for Microsoft Edge performs random searches based on a predefined list of keywords. This extension is designed to demonstrate how to build a simple browser extension using web technologies and the Microsoft Edge extension API.

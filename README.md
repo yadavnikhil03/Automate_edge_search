@@ -2,7 +2,7 @@
 
 This project is a browser extension for Microsoft Edge that performs searches based on a list of predefined keywords.
 
-![Extension Icon](icon.png)
+![Extension Icon](icons/icon16.png)
 
 ## Overview
 

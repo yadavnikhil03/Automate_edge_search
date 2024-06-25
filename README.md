@@ -25,7 +25,7 @@ The Automate_edge_search Extension for Microsoft Edge performs random searches b
 
 -Load the extension in Microsoft Edge:
 1. Open Microsoft Edge.
-2. Navigate to (edge://extensions/).
+2. Navigate to [](edge://extensions/).
 3. Enable "Developer mode" using the toggle switch in the lower-left corner.
 4. Click on "Load unpacked" and select the Automaate-edge-search directory.
 

@@ -20,7 +20,7 @@ The Automate_edge_search Extension for Microsoft Edge performs random searches b
 
 ### Installation Steps
 
-1. Clone the repository or download the latest release from [GitHub](https://github.com/yadavnikhil03/Automate_edge_search/).
+1. Clone the repository or download by clicking on the CODE from [GitHub](https://github.com/yadavnikhil03/Automate_edge_search/) and Download the zip.
 2. Unzip the Download zip.
 
 -Load the extension in Microsoft Edge:
